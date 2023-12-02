@@ -1,7 +1,7 @@
 import React from "react";
 import {AppBar, Button, Toolbar, Link, Typography} from "@mui/material";
 import CartWidget from "./CartWidget";
-import '../App.css';
+import "../App.css";
 
 const NavBar = () => {
 	return (
